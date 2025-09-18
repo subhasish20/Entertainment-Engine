@@ -1,0 +1,8 @@
+numpy 
+pandas 
+seaborn
+scikit-learn
+nltk
+transformers
+huggingface-hub
+sentence-transformers
