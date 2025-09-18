@@ -21,24 +21,6 @@ The **Entertainment-Engine** uses a combination of **content-based filtering** a
 4. **Cosine Similarity**: The system calculates cosine similarity between movies to find those that are most similar to each other.
 5. **Recommendation Generation**: Based on the similarity score, the system recommends movies that closely match your tastes. 📈
 
-## ⚙️ **Installation Instructions**
-
-To run the **Entertainment-Engine** locally, follow these steps:
-
-### 1. Clone the Repository:
-
-```bash
-git clone https://github.com/subhasish20/Movie-recommender-system.git
-cd movie-recommender-system
-```
-
-### 2. Install Required Dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Once the application is running, follow the on-screen prompts to get movie recommendations!
 
 ## 📊 **Technologies Used**
 
